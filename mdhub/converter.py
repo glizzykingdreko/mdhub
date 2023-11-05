@@ -60,7 +60,7 @@ def convert_md_to_html(md_filename, html_filename, mode="dark"):
     html_content = str(soup)
 
     # Include the content in the HTML template
-    css_path = f"mdhub/models/{mode}.css"
+    css_path = f"models/{mode}.css"
     css_content = pkg_resources.resource_string(__name__, css_path).decode('utf-8')
     full_html = HTML_TEMPLATE.format(
         title=title, 
