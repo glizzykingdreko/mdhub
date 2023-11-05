@@ -1,24 +1,24 @@
 # MDHub
 
-![banner](img/banner.png)
+![banner](https://raw.githubusercontent.com/glizzykingdreko/mdhub/main/img/banner.png)
 
-![GitHub](https://img.shields.io/badge/GitHub-glizzykingdreko%2Fmd2html-blue) ![PyPI](https://badge.fury.io/py/mdhub.svg)
+![GitHub](https://img.shields.io/badge/GitHub-glizzykingdreko%2Fmdhub-blue) ![PyPI](https://badge.fury.io/py/mdhub.svg)
 
 Easily convert Markdown files to styled HTML. Perfect for delivering projects to clients who might not be familiar with `.md` files.
 
 ## Table of Contents
 - [MDHub](#mdhub)
   - [Table of Contents](#table-of-contents)
-  - [Why MD2HTML?](#why-md2html)
+  - [Why MDHUB?](#why-mdhub)
     - [The name](#the-name)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
   - [My links](#my-links)
 
-## Why MD2HTML?
+## Why MDHUB?
 
-Sometimes when delivering projects to clients, they might not be familiar with Markdown or might not have the necessary tools to render it. Online converters often don't replicate the GitHub styling, and might not support dark/light modes. `MD2HTML` fills this gap by providing a simple tool to convert Markdown files to styled HTML that resembles GitHub's own rendering, with support for both dark and light themes.
+Sometimes when delivering projects to clients, they might not be familiar with Markdown or might not have the necessary tools to render it. Online converters often don't replicate the GitHub styling, and might not support dark/light modes. `MDHUB` fills this gap by providing a simple tool to convert Markdown files to styled HTML that resembles GitHub's own rendering, with support for both dark and light themes.
 
 ### The name
 The name "mdhub" is a nod to the central theme of our tool – making your Markdown files look and feel like they're on GitHub. "md" stands for Markdown, and "hub" alludes to a central place or repository, reminiscent of GitHub where a lot of Markdown content is commonly hosted and viewed. Our goal is to bring that familiar and stylish GitHub appearance to your Markdown files, no matter where they're viewed from, hence the name "mdhub".
